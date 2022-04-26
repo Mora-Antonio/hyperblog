@@ -8,4 +8,7 @@ NieR: Automata, stylized as NieR:Automata, is an action role-playing video game 
 | Rōmaji  |  Nīa Ōtomata |
 |  Genre | Action role-playing  |
 
-![](https://media4.giphy.com/media/l0Iye29H39h7qVbgY/giphy.gif)
+![](https://cdn.akamai.steamstatic.com/steam/apps/524220/extras/Nier_PRE_Launch-ENG_UK_Multi_06_Mod.jpg?t=1646911723)
+
+## Story
+Each chapter contains various sub-chapters with some only being revealed after multiple playthroughs. They can also be replayed via the Chapter Select menu. 

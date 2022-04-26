@@ -8,5 +8,4 @@ NieR: Automata, stylized as NieR:Automata, is an action role-playing video game 
 | Rōmaji  |  Nīa Ōtomata |
 |  Genre | Action role-playing  |
 
-
-![](https://cdn.akamai.steamstatic.com/steam/apps/524220/extras/Nier_PRE_Launch-ENG_UK_Multi_06_Mod.jpg?t=1646911723)
+![](https://media4.giphy.com/media/l0Iye29H39h7qVbgY/giphy.gif)
